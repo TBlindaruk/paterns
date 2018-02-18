@@ -1,0 +1,15 @@
+{
+  "name": "root/adapter-pattern",
+  "authors": [
+    {
+      "name": "Tetiana",
+      "email": "t.blindaruk@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Pattern\\": "src/"
+    }
+  }
+}
